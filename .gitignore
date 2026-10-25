@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+bin/
+lib/
+
+# Cache and temporary files
+.cache/
+*.o
+*.obj
+
+.DS_Store
